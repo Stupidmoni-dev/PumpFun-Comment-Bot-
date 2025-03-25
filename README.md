@@ -1,5 +1,4 @@
-# PumpFun-Comment-Bot-
-Here's the updated `README.md` with your Telegram contact as a clickable link:  
+# PumpFun-Comment-Bot- 
 
 ---
 
