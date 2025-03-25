@@ -1,0 +1,22 @@
+First build code
+ -npm run build
+Then
+1.generate accounts
+ modify NUMBER_OF_ACCOUNT
+ -npm run generate
+ it will generate cookies at '/cookies/'
+2.add comments to '/comments/'
+ -bad.txt : for bad comments
+ -nice.txt : for nice comments
+ Edit COMMENT_TYPE for selecting comment
+3. add avatars to '/pics/'
+4. run bot
+ -npm start
+ It will give comments to specified token defined as TOKEN_ADDRESS with random texts and avatars
+
+Note: pump.fun will delete same content about one token,
+ so please add many comments to bad.txt and nice.txt
+
+after npm i
+npx playwright install-deps.
+npx playwright install
